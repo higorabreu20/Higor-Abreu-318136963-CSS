@@ -1,0 +1,65 @@
+.logo {
+  height: 50px;
+  padding: 10px;
+  background-color: #8B475D;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-family: arial, sans-serif;
+}
+
+a:hover {
+  color: #6C5B7B;
+  text-decoration: underline;
+}
+
+#cabecalho {
+  height: 100px;
+  padding: 10px;
+  background-color: #CD6889;
+  text-align: center;
+}
+
+header {
+  height: 100px;
+  padding: 20px;
+  background-color: #C06C84;
+}
+
+nav {
+  height: 30px;
+  padding: 10px;
+  background-color: #6C5B7B;
+  text-align: center;
+}
+
+aside {
+  padding: 2%;
+  height: 300px;
+  width: 30%;
+  background-color: #8B4789;
+  float: left;
+}
+
+main{
+  height: 300px;
+  width: 62%;
+  padding: 2%;
+  background-color: #F67280;
+  float: right;
+}
+
+footer {
+  height: 50px;
+  padding: 10px;
+  background-color: #8B7B8B;
+  clear: both;
+}
+
+span {
+  color: #F2F2F2;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}

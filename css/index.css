@@ -1,0 +1,40 @@
+.svg1 {
+	margin-top: 50px;
+    float: left;
+}
+h2 {
+	text-align: center;
+}
+.login {
+	display: flex;
+	float: left;
+	margin-top: 130px;
+	margin-left: -200px;
+}
+.row {
+  	display: flex;
+  	flex-wrap: wrap;
+  	padding: 0 100px;
+}
+
+.column {
+  	flex: 25%;
+  	max-width: 25%;
+  	padding: 0 4px;
+}
+
+.column img {
+  	margin-top: 8px;
+  	vertical-align: middle;
+}
+footer {
+  	text-align: center;
+  	background-color: gray;
+  	padding: 36px;
+}
+
+white {
+  	text-align: center;
+  	background-color: none;
+  	padding: 36px;
+}
